@@ -19,7 +19,7 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task0.V26
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #1 | Выполнила: Шананина В. В. | ИСТНб-23-1";
+            Console.Title = "Спринт #2 | Выполнила: Шананина В. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");

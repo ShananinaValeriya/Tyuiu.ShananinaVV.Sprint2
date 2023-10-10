@@ -16,7 +16,7 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task3.V29
 
 
 
-            Console.Title = "Спринт #1 | Выполнила: Шананина В. В. | ИСТНб-23-1";
+            Console.Title = "Спринт #2 | Выполнила: Шананина В. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема:  Вложенные операторы if - else                                    *");

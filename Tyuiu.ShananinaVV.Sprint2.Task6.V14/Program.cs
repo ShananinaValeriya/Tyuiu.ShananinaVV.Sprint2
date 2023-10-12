@@ -17,7 +17,7 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task6.V14
             Console.Title = "Спринт #2 | Выполнила: Шананина В. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Оператор switch                                                   *");
+            Console.WriteLine("* Тема: Получение результата из switch                                    *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #14                                                             *");
             Console.WriteLine("* Выполнила: Шананина Валерия Викторовна | ИСТНб-23-1                     *");

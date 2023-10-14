@@ -64,8 +64,6 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task6.V14
 
 
 
-
-
             
         }
     }

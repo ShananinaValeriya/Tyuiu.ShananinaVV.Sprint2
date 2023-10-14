@@ -40,7 +40,7 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task6.V14
             int k;
             int d;
 
-            Console.WriteLine("Введите целое число: ");
+            Console.WriteLine("Введите номер дня в году (1 - 365):");
             k = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Введите номер дня недели, с которого начинается 1 января: ");

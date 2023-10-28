@@ -60,6 +60,7 @@ namespace Tyuiu.ShananinaVV.Sprint2.Task5.V5
 
             Console.WriteLine(res);
             Console.ReadKey();
+
         }
     }
 }
